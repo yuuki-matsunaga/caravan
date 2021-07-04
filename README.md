@@ -7,3 +7,5 @@
 # chapter6 start
 
 # chapter6 finish
+
+# chapter7 start
